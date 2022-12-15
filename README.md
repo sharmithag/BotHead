@@ -2,7 +2,7 @@
 
 ## Software Development for Robotics
 
-[walker](https://github.com/sharmithag/chitti_walker)
+[Walker](https://github.com/sharmithag/chitti_walker)
 
 
 ## ML 
