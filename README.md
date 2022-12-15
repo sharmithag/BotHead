@@ -1,6 +1,6 @@
 ####                                                           Author  :  Sharmitha Ganesan
-![profilepic](https://user-images.githubusercontent.com/90351952/207928179-815fc69d-0f55-4811-bafe-c4089edf0810.png | width=100)
 
+<img src="https://user-images.githubusercontent.com/90351952/207928179-815fc69d-0f55-4811-bafe-c4089edf0810.png" width="150" height="150">
 
 Hi everyone! I am Sharmitha Ganesan doing Masters in Robotics at the University of Maryland, College Park. I am interested in robot perception, ML and DL problems. 
 
