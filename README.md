@@ -3,20 +3,6 @@
 
 Hi everyone! I am Sharmitha Ganesan doing Masters in Robotics at the University of Maryland, College Park. I am interested in robot perception, ML and DL problems. 
 
-## Software Development for Robotics
-
-[Walker](https://github.com/sharmithag/chitti_walker)
-
-
-## ML 
-
-[Training_LIDAR DATA](https://github.com/sharmithag/ML_Training-LiDaR-data)
-
-## Robot Modelling Projects
-
-[Rover](https://github.com/sharmithag/Modelling_rover_with_arm)
-
-
 ## Robot Perception Projects
 
 [Segmentation](https://github.com/sharmithag/segmented_pointcloud_research) 
@@ -28,5 +14,19 @@ Hi everyone! I am Sharmitha Ganesan doing Masters in Robotics at the University 
 [Djikstra](https://github.com/sharmithag/Planning_Dijkstra)
 
 [RRT_RRT*](https://github.com/sharmithag/Planning_RRT)
+
+
+## Software Development for Robotics project
+
+[Walker](https://github.com/sharmithag/chitti_walker)
+
+## ML project
+
+[Training_LIDAR DATA](https://github.com/sharmithag/ML_Training-LiDaR-data)
+
+## Robot Modeling Projects
+
+[Rover](https://github.com/sharmithag/Modelling_rover_with_arm)
+
 
 
